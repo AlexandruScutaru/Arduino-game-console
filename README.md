@@ -15,7 +15,7 @@ The repository contains 2 sketches:
 
 * Arduino Nano
 * 1.8 in Display (160x128)
-* MicrodSD / SD card socket
+* MicroSD/SD card socket
 * Buzzer
 * 6 Momentary switches
 * Resistors: one of each : 220, 390, 680, 1k, 2.2k, 4.7k, 10k ohms
