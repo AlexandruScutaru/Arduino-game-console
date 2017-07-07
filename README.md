@@ -57,28 +57,28 @@ When the circuit is closed we read the value at pin A0.</br> Value ranges:
 
     Solder the female header pins like this:</br>
 ![](Readme-res/mainboard1.png)</br>
-We need to connect the pins as following:
+We need to connect the pins as following:</br>
 ![](Readme-res/mainboard2.png)
 
-    || **Lcd** | **Arduino** |
-  ---| --- | --- |
-    | VCC | 5V |
-    | GND | GND |
-    | CLK/SCK | D13 |
-    | SDA | D11 |
-    | RS/DC | D9 |
-    | RST | D8 |
-    | CS | D10 |
-    |**SD Card** ||
-    |CS | D4 |
-    |MOSI | D11 |
-    |CLK | D13 |
-    |MISO | D12 |
-    |**Buzzer** ||
-    |+ | D7 |
-    |- | GND|
+| **Lcd** | **Arduino** |
+| --- | --- |
+| VCC | 5V |
+| GND | GND |
+| CLK/SCK | D13 |
+| SDA | D11 |
+| RS/DC | D9 |
+| RST | D8 |
+| CS | D10 |
+|**SD Card** ||
+|CS | D4 |
+|MOSI | D11 |
+|CLK | D13 |
+|MISO | D12 |
+|**Buzzer** ||
+|+ | D7 |
+|- | GND|
 
-    Finished mainboard:</br>
+Finished mainboard:</br>
 ![](Readme-res/mainboard3.png)
 
 ### Dependencies
