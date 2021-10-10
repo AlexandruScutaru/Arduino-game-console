@@ -1,3 +1,5 @@
+# This is outdated. See [this](https://github.com/AlexandruScutaru/EscapeTheSewer) repo for an improved version.
+
 # Arduino Nano handheld game console
 
 This is Nanoboy Basic, an Arduino Nano based handheld game console.
